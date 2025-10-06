@@ -1,0 +1,10 @@
+paho-mqtt
+psycopg2-binary
+python-dotenv
+pymysql
+mysql-connector-python
+flask
+flask-socketio
+python-socketio
+requests
+supabase
